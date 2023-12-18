@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "sport",
+            "title": "De Leede propels Dutch past Scots into Cricket World Cup",
+            "description": "A magnificent all-round performance by Bas de Leede secured The Netherlands the final spot in the Cricket World Cup after they beat Scotland by four wickets on Thursday.",
+            "url": "https://www.news24.com/sport/cricket/de-leede-propels-dutch-past-scots-into-cricket-world-cup-20230706",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8756/76eadd72e0d74498997427f24c1a4e78.jpg",
+            "publishedAt": "2023-07-06T17:01:29+00:00",
+            "content": "A magnificent all-round performance by Bas de Leede secured\r\nThe Netherlands the final spot in the Cricket World Cup after they beat\r\nScotland by four wickets on Thursday.\r\nDe Leede struck a brillian… [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Australia clashes at Lord's 'brought shame' on MCC",
+            "description": "Marylebone Cricket Club members involved in altercations with Australia players in the Long Room at Lord's \"brought shame\" on the club, says the organisation's chair.",
+            "url": "http://www.bbc.co.uk/sport/cricket/66122089",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1222E/production/_130268247_lords.jpg",
+            "publishedAt": "2023-07-06T15:22:34.0783334Z",
+            "content": "Marylebone Cricket Club members involved in altercations with Australia players in the Long Room at Lord's \"brought shame\" on the club, says the organisation's chair.\r\nBruce Carnegie-Brown said the M… [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
